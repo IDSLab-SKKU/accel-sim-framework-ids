@@ -9,8 +9,11 @@ sim_run_*
 gpucomputingsdk_4.2.9_linux.run
 util/job_launching/*.txt
 gpu-simulator/gpgpu-sim
-.vscode/*
 extern
 gpu-simulator/accel_sim.pyi
 compile_commands.json
 .cache
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
