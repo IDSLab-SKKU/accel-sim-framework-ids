@@ -58,3 +58,6 @@ ubench/system/deviceQuery/deviceQuery
 ubench/system/kernel_lat/kernel_lat
 ubench/system/system_config/system_config
 ubench/system/list_devices/list_devices
+# Lab security: exclude local editor configuration
+.vscode/
+.cursor/

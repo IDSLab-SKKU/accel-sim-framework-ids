@@ -1,2 +1,5 @@
 *html*
 *logs
+# Lab security: exclude local editor configuration
+.vscode/
+.cursor/

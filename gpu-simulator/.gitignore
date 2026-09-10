@@ -1,3 +1,6 @@
 bin/
 build/
 gpgpu-sim/
+# Lab security: exclude local editor configuration
+.vscode/
+.cursor/

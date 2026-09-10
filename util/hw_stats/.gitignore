@@ -1,1 +1,4 @@
 python-package
+# Lab security: exclude local editor configuration
+.vscode/
+.cursor/

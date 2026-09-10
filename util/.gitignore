@@ -1,1 +1,4 @@
 *.pyc
+# Lab security: exclude local editor configuration
+.vscode/
+.cursor/

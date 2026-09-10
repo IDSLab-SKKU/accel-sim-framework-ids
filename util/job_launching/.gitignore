@@ -2,3 +2,6 @@ logfiles
 *.csv
 *.pickle*
 procman/
+# Lab security: exclude local editor configuration
+.vscode/
+.cursor/
